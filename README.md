@@ -27,7 +27,10 @@ Como baixar projeto:
               git clone https://github.com/matheus-lagreca/Dell-IT-6-Exercicios/
               cd Dell tab -->tab auto completa os nomes
               git status --> para ver se esta tudo ok
-              git branch seu_nome --> para criar um branch com seu nome
+              git branch -b seu_nome --> para criar um branch com seu nome
+              git push -u origin seu_nome
+              //sua branch foi criada e esta no repositório
+              //fui almocar
+              
               continue (fui almocar)
 
-Como criar pastas:

@@ -1,10 +1,11 @@
 Tutorial (criar)
-Disposição git:
+--> Disposição git:
 Cada branch é separada pelo nome de cada um, o modelo de cada branch é definido pelo dono
 uma base boa seria separarar em pastas por tópicos(java, spring...).
 
 
-Comandos Básicos: 
+
+--> Comandos Básicos:
   git branch -a                 Lista todas as branchs
   git clone                     Clona um repositório
   git add .                     Adiciona todos os arquivos no index

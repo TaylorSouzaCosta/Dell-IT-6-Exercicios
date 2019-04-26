@@ -17,13 +17,13 @@ uma base boa seria separarar em pastas por tópicos(java, spring...).
 Tutorial:
 Como baixar projeto:
   Pelo console windows 
-    --> menu iniciar 
-      --> cmd:
-              //criar um pasta para guardar o repositorio
-              //dir -> mostra os diretórios
-              //cd  Documentos -> entra na pasta documentos
-              //cd .. -> volta uma pasta
-              //mkdir diretorio -> cria pasta diretório
+       menu iniciar 
+         cmd
+              criar um pasta para guardar o repositorio
+              dir -> mostra os diretórios
+              cd  Documentos -> entra na pasta documentos
+              cd .. -> volta uma pasta
+              mkdir diretorio -> cria pasta diretório
               
               git clone https://github.com/matheus-lagreca/Dell-IT-6-Exercicios/
               cd Dell tab -->tab auto completa os nomes

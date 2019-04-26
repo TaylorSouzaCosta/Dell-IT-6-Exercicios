@@ -1,4 +1,4 @@
-Tutorial (criar)
+Tutorial (terminar/deixar bonito)
 --> Disposição git:
 Cada branch é separada pelo nome de cada um, o modelo de cada branch é definido pelo dono
 uma base boa seria separarar em pastas por tópicos(java, spring...).
